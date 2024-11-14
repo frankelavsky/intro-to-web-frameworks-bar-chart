@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# A 30min bar chart in create-react-app
+
+<img src="./public/bar.png" alt="A simple black and white bar chart with 4 bars. Dog, 4. Cat, 3. Bird, 2. Fish, 2.">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
